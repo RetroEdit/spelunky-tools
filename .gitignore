@@ -1,0 +1,7 @@
+
+*.exe
+
+__pycache__/
+
+# Avoid accidentally adding massive amounts of data
+*.csv
